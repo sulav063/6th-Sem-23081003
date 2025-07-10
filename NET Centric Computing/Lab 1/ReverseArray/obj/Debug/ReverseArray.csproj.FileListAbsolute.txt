@@ -1,0 +1,8 @@
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\bin\Debug\ReverseArray.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\bin\Debug\ReverseArray.exe
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\bin\Debug\ReverseArray.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\obj\Debug\ReverseArray.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\obj\Debug\ReverseArray.exe
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\obj\Debug\ReverseArray.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\ReverseArray\obj\Debug\ReverseArray.exe.config

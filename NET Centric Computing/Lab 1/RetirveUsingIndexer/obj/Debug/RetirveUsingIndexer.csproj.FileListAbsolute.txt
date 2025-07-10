@@ -1,0 +1,7 @@
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\bin\Debug\RetirveUsingIndexer.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\bin\Debug\RetirveUsingIndexer.exe
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\bin\Debug\RetirveUsingIndexer.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\obj\Debug\RetirveUsingIndexer.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\obj\Debug\RetirveUsingIndexer.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\obj\Debug\RetirveUsingIndexer.exe
+E:\Lab Task\Net Centric Computing\Lab 1\RetirveUsingIndexer\obj\Debug\RetirveUsingIndexer.pdb

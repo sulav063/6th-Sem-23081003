@@ -1,0 +1,7 @@
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+E:\Lab Task\Net Centric Computing\Lab 1\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

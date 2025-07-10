@@ -1,0 +1,7 @@
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\bin\Debug\VirtualMethodPolymorphism.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\bin\Debug\VirtualMethodPolymorphism.exe
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\bin\Debug\VirtualMethodPolymorphism.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\obj\Debug\VirtualMethodPolymorphism.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\obj\Debug\VirtualMethodPolymorphism.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\obj\Debug\VirtualMethodPolymorphism.exe
+E:\Lab Task\Net Centric Computing\Lab 1\VirtualMethodPolymorphism\obj\Debug\VirtualMethodPolymorphism.pdb

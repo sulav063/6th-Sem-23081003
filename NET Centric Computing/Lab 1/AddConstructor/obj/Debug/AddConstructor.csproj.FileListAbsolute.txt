@@ -1,0 +1,8 @@
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.exe
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe.config

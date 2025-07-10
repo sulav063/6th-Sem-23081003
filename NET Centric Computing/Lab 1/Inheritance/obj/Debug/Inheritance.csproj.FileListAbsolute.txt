@@ -1,0 +1,7 @@
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\bin\Debug\Inheritance.exe
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\bin\Debug\Inheritance.pdb
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\obj\Debug\Inheritance.exe
+E:\Lab Task\Net Centric Computing\Lab 1\Inheritance\obj\Debug\Inheritance.pdb
