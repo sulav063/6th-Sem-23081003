@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AddConstructor"
+    "\\AutomaticProperties",
+    "\\Inheritance",
+    "\\RectangleMultipleInheritance",
+    "\\RetirveUsingIndexer",
+    "\\ReverseArray",
+    "\\VirtualMethodPolymorphism"
   ],
-  "SelectedNode": "\\AutomaticProperties",
+  "SelectedNode": "\\VirtualMethodPolymorphism\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

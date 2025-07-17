@@ -30,5 +30,6 @@ class Rectangle : ILength, IBreadth
         r.Breadth = 4;
 
         Console.WriteLine("Area = " + r.Area());
+        Console.ReadLine(); // Keep console window open
     }
 }

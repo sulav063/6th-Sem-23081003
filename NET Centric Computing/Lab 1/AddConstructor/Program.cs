@@ -19,19 +19,24 @@ class AddTwoDigits
 
     static void Main()
     {
-        // Ask user to enter two numbers
+        int input1, input2;
+
         Console.Write("Enter first number: ");
-        int input1 = int.Parse(Console.ReadLine());  // Convert input to integer
+        while (!int.TryParse(Console.ReadLine(), out input1))
+        {
+            Console.Write("Invalid input. Please enter a valid number: ");
+        }
 
         Console.Write("Enter second number: ");
-        int input2 = int.Parse(Console.ReadLine());  // Convert input to integer
+        while (!int.TryParse(Console.ReadLine(), out input2))
+        {
+            Console.Write("Invalid input. Please enter a valid number: ");
+        }
 
-        // Create an object and pass values to constructor
         AddTwoDigits obj = new AddTwoDigits(input1, input2);
-
-        // Call the Add method and display result
         Console.WriteLine("The sum is: " + obj.Add());
 
-        Console.ReadLine(); // To keep the console window open
+        Console.ReadLine(); // Keep console window open
+        Console.ReadKey();
     }
 }

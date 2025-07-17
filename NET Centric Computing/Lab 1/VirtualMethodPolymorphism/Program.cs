@@ -37,5 +37,6 @@ class PolymorphismDemo
 
         a = new Cat();
         a.Sound();  // Cat's sound
+        Console.ReadLine(); // Keep console window open
     }
 }

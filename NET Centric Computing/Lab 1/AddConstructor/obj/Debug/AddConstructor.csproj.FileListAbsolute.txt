@@ -6,3 +6,11 @@ E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.
 E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe
 E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.pdb
 E:\Lab Task\Net Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\bin\Debug\AddConstructor.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.csproj.AssemblyReference.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.csproj.CoreCompileInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\AddConstructor\obj\Debug\AddConstructor.pdb

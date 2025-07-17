@@ -5,3 +5,11 @@ E:\Lab Task\Net Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\R
 E:\Lab Task\Net Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.csproj.CoreCompileInputs.cache
 E:\Lab Task\Net Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.exe
 E:\Lab Task\Net Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\bin\Debug\RectangleMultipleInheritance.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\bin\Debug\RectangleMultipleInheritance.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\bin\Debug\RectangleMultipleInheritance.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.csproj.AssemblyReference.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.csproj.CoreCompileInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab 1\RectangleMultipleInheritance\obj\Debug\RectangleMultipleInheritance.pdb

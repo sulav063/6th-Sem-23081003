@@ -24,5 +24,6 @@ class Student
         Console.WriteLine("Student Name: " + s.Name);
 
         Console.ReadLine(); // To keep the console open
+        Console.ReadKey();
     }
 }
