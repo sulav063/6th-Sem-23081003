@@ -1,0 +1,16 @@
+E:\Lab Task\Net Centric Computing\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab2\bin\Debug\Lab2.exe.config
+E:\Lab Task\Net Centric Computing\Lab2\bin\Debug\Lab2.exe
+E:\Lab Task\Net Centric Computing\Lab2\bin\Debug\Lab2.pdb
+E:\Lab Task\Net Centric Computing\Lab2\obj\Debug\Lab2.exe
+E:\Lab Task\Net Centric Computing\Lab2\obj\Debug\Lab2.pdb
+E:\Lab Task\Net Centric Computing\Lab2\obj\Debug\Lab2.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\bin\Debug\Lab2.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\bin\Debug\Lab2.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\bin\Debug\Lab2.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\obj\Debug\Lab2.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\obj\Debug\Lab2.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab2\obj\Debug\Lab2.pdb
