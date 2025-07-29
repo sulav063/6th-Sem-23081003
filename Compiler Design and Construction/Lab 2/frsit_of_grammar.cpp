@@ -1,102 +1,106 @@
-#include <stdio.h>
-#include <ctype.h>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <cctype> // for isupper()
+using namespace std;
 
-int numOfProductions;
-char productionSet[10][10];
+int numProductions;
+vector<string> productions; // Stores all grammar productions
 
-void FIRST(char[], char);
-void addToResultSet(char[], char);
+// Function declarations
+void findFirst(string& result, char symbol);
+void addToResult(string& result, char value);
 
-int main()
-{
-    int i;
-    char choice, c, result[20];
+int main() {
+    char symbol, choice;
+    string result;
 
-    printf("How many number of productions?: ");
-    scanf(" %d", &numOfProductions);
+    cout << "How many productions? ";
+    cin >> numProductions;
+    cin.ignore(); // clear input buffer
 
-    for (i = 0; i < numOfProductions; i++)
-    {
-        printf("Enter productions Number %d: ", i + 1);
-        scanf(" %s", productionSet[i]);
+    productions.resize(numProductions);
+
+    // Input productions
+    for (int i = 0; i < numProductions; i++) {
+        cout << "Enter production " << (i + 1) << " (e.g., E=TR): ";
+        getline(cin, productions[i]);
     }
 
-    do
-    {
-        printf("\nFind the FIRST of: ");
-        scanf(" %c", &c);
-        FIRST(result, c); // Compute FIRST; Get Answer in 'result' array
-        printf("\nFIRST(%c) = { ", c);
-        for (i = 0; result[i] != '\0'; i++)
-            printf("%c ", result[i]); // Display result
-        printf("}\n");
-        printf("Press 'y' to continue: ");
-        scanf(" %c", &choice);
+    do {
+        cout << "\nFind FIRST of: ";
+        cin >> symbol;
+
+        result.clear(); // empty previous result
+        findFirst(result, symbol); // compute FIRST
+
+        // Display the result
+        cout << "FIRST(" << symbol << ") = { ";
+        for (int i = 0; i < result.length(); i++) {
+            cout << result[i] << " ";
+        }
+        cout << "}" << endl;
+
+        cout << "Do you want to continue? (y/n): ";
+        cin >> choice;
     } while (choice == 'y' || choice == 'Y');
 
     return 0;
 }
 
-void FIRST(char *Result, char c)
-{
-    int i, j, k;
-    char subResult[20];
-    int foundEpsilon;
+// Function to find FIRST of a symbol
+void findFirst(string& result, char symbol) {
+    string tempResult;
+    bool hasEpsilon;
 
-    subResult[0] = '\0';
-    Result[0] = '\0';
-
-    // If X is terminal, FIRST(X) = {X}
-    if (!(isupper(c)))
-    {
-        addToResultSet(Result, c);
+    // If the symbol is a terminal (not uppercase), FIRST = itself
+    if (!isupper(symbol)) {
+        addToResult(result, symbol);
         return;
     }
 
-    // If X is non-terminal then read each production
-    for (i = 0; i < numOfProductions; i++)
-    {
-        // Find production with X as LHS
-        if (productionSet[i][0] == c)
-        {
-            if (productionSet[i][2] == '$') // epsilon production
-                addToResultSet(Result, '$');
-            else
-            {
-                j = 2;
-                while (productionSet[i][j] != '\0')
-                {
-                    foundEpsilon = 0;
-                    FIRST(subResult, productionSet[i][j]);
-                    for (k = 0; subResult[k] != '\0'; k++)
-                        addToResultSet(Result, subResult[k]);
-                    for (k = 0; subResult[k] != '\0'; k++)
-                    {
-                        if (subResult[k] == '$')
-                        {
-                            foundEpsilon = 1;
+    // Go through all productions
+    for (int i = 0; i < numProductions; i++) {
+        if (productions[i][0] == symbol) { // If LHS matches
+            if (productions[i][2] == '$') { // epsilon production
+                addToResult(result, '$');
+            } else {
+                int j = 2; // RHS starts at index 2 (after =)
+                hasEpsilon = false;
+
+                while (j < productions[i].length()) {
+                    tempResult.clear();
+                    findFirst(tempResult, productions[i][j]); // recursive call
+
+                    // Add all symbols from tempResult to final result
+                    for (int k = 0; k < tempResult.length(); k++) {
+                        addToResult(result, tempResult[k]);
+                    }
+
+                    // Check if epsilon ($) is in tempResult
+                    hasEpsilon = false;
+                    for (int k = 0; k < tempResult.length(); k++) {
+                        if (tempResult[k] == '$') {
+                            hasEpsilon = true;
                             break;
                         }
                     }
-                    // No epsilon found, no need to check next element
-                    if (!foundEpsilon)
+
+                    // If epsilon not found, stop further checking
+                    if (!hasEpsilon)
                         break;
-                    j++;
+
+                    j++; // check next symbol if epsilon was found
                 }
             }
         }
     }
-    return;
 }
 
-void addToResultSet(char Result[], char val)
-{
-    int k;
-    for (k = 0; Result[k] != '\0'; k++)
-    {
-        if (Result[k] == val)
-            return;
+// Function to add a symbol to the result if it's not already there
+void addToResult(string& result, char value) {
+    if (result.find(value) == string::npos) {
+        result += value;
     }
-    Result[k] = val;
-    Result[k + 1] = '\0';
 }
+
