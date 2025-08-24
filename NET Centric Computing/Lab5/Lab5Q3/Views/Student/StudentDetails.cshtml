@@ -1,0 +1,24 @@
+﻿@model Lab5Q3.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Course</th>
+        <td>@Model.Course</td>
+    </tr>
+    <tr>
+        <th>Semester</th>
+        <td>@Model.Semester</td>
+    </tr>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back</a>

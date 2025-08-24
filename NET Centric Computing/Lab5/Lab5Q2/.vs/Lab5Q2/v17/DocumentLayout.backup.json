@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab5\\lab5q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab5\\lab5q2\\views\\simpleinterest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|solutionrelative:views\\simpleinterest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab5\\lab5q2\\views\\simpleinterest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|solutionrelative:views\\simpleinterest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab5\\lab5q2\\controllers\\simpleinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|solutionrelative:controllers\\simpleinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab5\\lab5q2\\models\\simpleinterestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C57BFD-1C58-443B-AE9A-80E5E9C26999}|Lab5Q2.csproj|solutionrelative:models\\simpleinterestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:59:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Views\\SimpleInterest\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\SimpleInterest\\Result.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Views\\SimpleInterest\\Result.cshtml",
+              "RelativeToolTip": "Views\\SimpleInterest\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T13:59:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Views\\SimpleInterest\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SimpleInterest\\Index.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Views\\SimpleInterest\\Index.cshtml",
+              "RelativeToolTip": "Views\\SimpleInterest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T13:57:39.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleInterestController.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Controllers\\SimpleInterestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SimpleInterestController.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Controllers\\SimpleInterestController.cs",
+              "RelativeToolTip": "Controllers\\SimpleInterestController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:54:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleInterestModel.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Models\\SimpleInterestModel.cs",
+              "RelativeDocumentMoniker": "Models\\SimpleInterestModel.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab5\\Lab5Q2\\Models\\SimpleInterestModel.cs",
+              "RelativeToolTip": "Models\\SimpleInterestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:53:45.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

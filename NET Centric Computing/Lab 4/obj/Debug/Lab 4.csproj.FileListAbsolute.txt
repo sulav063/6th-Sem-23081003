@@ -1,8 +1,0 @@
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\bin\Debug\Lab 4.exe.config
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\bin\Debug\Lab 4.exe
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\bin\Debug\Lab 4.pdb
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\obj\Debug\Lab 4.csproj.AssemblyReference.cache
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\obj\Debug\Lab 4.exe
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\obj\Debug\Lab 4.pdb
-F:\6th-Sem-23081003\NET Centric Computing\Lab 4\obj\Debug\Lab 4.exe.config

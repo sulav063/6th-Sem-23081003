@@ -1,0 +1,31 @@
+﻿@model Lab5Q3.Models.Student
+
+@{
+    ViewData["Title"] = "Student Information Form";
+}
+
+<h2>Student Information Form</h2>
+
+<form asp-action="Index" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Course"></label>
+        <input asp-for="Course" class="form-control" />
+        <span asp-validation-for="Course" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Semester"></label>
+        <input asp-for="Semester" class="form-control" type="number" />
+        <span asp-validation-for="Semester" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

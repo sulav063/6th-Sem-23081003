@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\q1_connectedexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|solutionrelative:q1_connectedexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\q1_disconnectedexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|solutionrelative:q1_disconnectedexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC68D0-FADE-4B05-A1A5-919D8D10A885}|Lab4.csproj|solutionrelative:models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Models\\DemoContext.cs",
+              "RelativeDocumentMoniker": "Models\\DemoContext.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Models\\DemoContext.cs",
+              "RelativeToolTip": "Models\\DemoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:00:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q1_DisconnectedExample.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Q1_DisconnectedExample.cs",
+              "RelativeDocumentMoniker": "Q1_DisconnectedExample.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Q1_DisconnectedExample.cs",
+              "RelativeToolTip": "Q1_DisconnectedExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:29:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q1_ConnectedExample.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Q1_ConnectedExample.cs",
+              "RelativeDocumentMoniker": "Q1_ConnectedExample.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Q1_ConnectedExample.cs",
+              "RelativeToolTip": "Q1_ConnectedExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:23:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:19:15.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

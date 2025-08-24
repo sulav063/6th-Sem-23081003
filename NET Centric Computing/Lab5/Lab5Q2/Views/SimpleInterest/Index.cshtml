@@ -1,0 +1,19 @@
+﻿@model Lab5Q2.Models.SimpleInterestModel
+
+<h2>Simple Interest Calculator</h2>
+
+<form asp-action="Calculate" method="post">
+    <div>
+        <label>Principal:</label>
+        <input asp-for="Principal" />
+    </div>
+    <div>
+        <label>Rate (%):</label>
+        <input asp-for="Rate" />
+    </div>
+    <div>
+        <label>Time (Years):</label>
+        <input asp-for="Time" />
+    </div>
+    <button type="submit">Calculate</button>
+</form>

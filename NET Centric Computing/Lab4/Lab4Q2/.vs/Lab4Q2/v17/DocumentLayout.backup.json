@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Lab4Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC839D5-D5BF-4601-9313-59C88B05DD00}|Lab4Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\lab4q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC839D5-D5BF-4601-9313-59C88B05DD00}|Lab4Q2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC839D5-D5BF-4601-9313-59C88B05DD00}|Lab4Q2.csproj|f:\\6th-sem-23081003\\net centric computing\\lab4\\lab4q2\\lab4q2model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1FC839D5-D5BF-4601-9313-59C88B05DD00}|Lab4Q2.csproj|solutionrelative:lab4q2model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4Q2Model.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Lab4Q2\\Lab4Q2Model.edmx",
+              "RelativeDocumentMoniker": "Lab4Q2Model.edmx",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Lab4Q2\\Lab4Q2Model.edmx [Diagram1]",
+              "RelativeToolTip": "Lab4Q2Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-22T10:58:51.765Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Lab4Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab4\\Lab4Q2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:41:16.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

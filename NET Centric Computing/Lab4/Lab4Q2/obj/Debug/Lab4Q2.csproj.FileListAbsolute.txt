@@ -1,0 +1,13 @@
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\Lab4Q2.exe.config
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\Lab4Q2.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\Lab4Q2.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\EntityFramework.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\EntityFramework.SqlServer.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\EntityFramework.xml
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\bin\Debug\EntityFramework.SqlServer.xml
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.csproj.AssemblyReference.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.csproj.CoreCompileInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.csproj.Up2Date
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\Lab4Q2\obj\Debug\Lab4Q2.exe.config

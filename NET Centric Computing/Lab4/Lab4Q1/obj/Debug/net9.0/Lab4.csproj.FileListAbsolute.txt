@@ -1,0 +1,307 @@
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Lab4.exe
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Lab4.deps.json
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Lab4.runtimeconfig.json
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Lab4.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Lab4.pdb
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Azure.Core.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Azure.Identity.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Humanizer.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.ClientModel.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.CodeDom.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lab Task\Net Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.AssemblyReference.cache
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfoInputs.cache
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfo.cs
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.CoreCompileInputs.cache
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.Up2Date
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.dll
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\refint\Lab4.dll
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.pdb
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\Lab4.genruntimeconfig.cache
+E:\Lab Task\Net Centric Computing\Lab4\obj\Debug\net9.0\ref\Lab4.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.AssemblyReference.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfoInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfo.cs
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.CoreCompileInputs.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.sourcelink.json
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Lab4.exe
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Lab4.deps.json
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Lab4.runtimeconfig.json
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Lab4.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Lab4.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Azure.Core.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Azure.Identity.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\EntityFramework.SqlServer.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\EntityFramework.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Humanizer.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.ClientModel.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.CodeDom.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Memory.Data.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.csproj.Up2Date
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\refint\Lab4.dll
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.pdb
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\Lab4.genruntimeconfig.cache
+F:\6th-Sem-23081003\NET Centric Computing\Lab4\obj\Debug\net9.0\ref\Lab4.dll
