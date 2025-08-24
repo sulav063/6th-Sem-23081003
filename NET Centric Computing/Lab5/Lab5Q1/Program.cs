@@ -1,28 +1,33 @@
+﻿using System;
+using System.Linq;
 using Lab5Q1.Data;
+using Lab5Q1.Models;
 using Microsoft.EntityFrameworkCore;
 
-var builder = WebApplication.CreateBuilder(args);
+using var context = new AppDbContext();
 
-// Add services
-builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
-
-var app = builder.Build();
-
-if (!app.Environment.IsDevelopment())
+// Seed only once
+if (!context.Students.Any())
 {
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
+    context.Students.AddRange(
+        new Student { Name = "Pragyan", Age = 11 },
+        new Student { Name = "Prapti", Age = 20 },
+        new Student { Name = "Priyanka", Age = 22 }
+    );
+    context.SaveChanges();
 }
 
-app.UseHttpsRedirection();
-app.UseStaticFiles();
-app.UseRouting();
-app.UseAuthorization();
+// Query & display
+var students = context.Students
+    .AsNoTracking()
+    .OrderBy(s => s.Id)
+    .ToList();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Products}/{action=Index}/{id?}");
+Console.WriteLine("ID\tName\tAge");
+foreach (var s in students)
+{
+    Console.WriteLine($"{s.Id}\t{s.Name}\t{s.Age}");
+}
 
-app.Run();
+Console.WriteLine("\nDone. Press any key to exit...");
+Console.ReadKey();
