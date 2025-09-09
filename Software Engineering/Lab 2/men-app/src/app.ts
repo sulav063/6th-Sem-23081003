@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import { connectDB } from "./config/database";
+import taskRoutes from "./routes/taskRoutes";
 
 dotenv.config();
 
@@ -11,6 +12,7 @@ const PORT = process.env.PORT || 8080;
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use("/api/tasks", taskRoutes);
 
 // Health check
 app.get("/health", (req, res) => {
@@ -28,7 +30,6 @@ const startServer = async () => {
     process.exit(1);
   }
 };
-
 
 export default app;
 startServer();

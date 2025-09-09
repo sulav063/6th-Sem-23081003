@@ -31,12 +31,7 @@ const TaskSchema = new Schema<ITask>(
             type: String,
             enum: ["low", "medium", "high"],
             default: "medium",
-        },
-        createdBy: {
-            type: Schema.Types.ObjectId,
-            ref: "User",
-            required: true,
-        },
+        }
     },
     {
         timestamps: true,
