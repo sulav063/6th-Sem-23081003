@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|f:\\6th-sem-23081003\\net centric computing\\lab 7\\lab 7\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|f:\\6th-sem-23081003\\net centric computing\\lab 7\\lab 7\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|f:\\6th-sem-23081003\\net centric computing\\lab 7\\lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|f:\\6th-sem-23081003\\net centric computing\\lab 7\\lab 7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|f:\\6th-sem-23081003\\net centric computing\\lab 7\\lab 7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED1DE5-D9D8-4077-B6AD-4A7DF6BD7FA9}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab 7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T04:06:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab 7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T04:06:20.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lab 7\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Lab 7\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T04:05:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Lab 7\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T04:04:54.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Program.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab 7\\Lab 7\\Program.cs",
+              "RelativeToolTip": "Lab 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T04:04:29.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

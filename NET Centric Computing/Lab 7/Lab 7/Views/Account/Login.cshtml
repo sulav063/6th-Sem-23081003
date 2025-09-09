@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form method="post" asp-action="Login">
+    <div>
+        <label>Username:</label>
+        <input type="text" name="username" required />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input type="password" name="password" id="password" required />
+        <label>
+            <input type="checkbox" id="showPassword" /> Show Password
+        </label>
+    </div>
+    <div>
+        <button type="submit">Login</button>
+    </div>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<script>
+    document.getElementById('showPassword').addEventListener('change', function() {
+        const passwordField = document.getElementById('password');
+        if (this.checked) {
+            passwordField.type = 'text';
+        } else {
+            passwordField.type = 'password';
+        }
+    });
+</script>

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6 23081003.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\views\\state\\tempdataread.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6 23081003.csproj|solutionrelative:lab6\\views\\state\\tempdataread.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\views\\state\\viewdatademo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\views\\state\\viewdatademo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\views\\state\\sessionget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\views\\state\\sessionget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|f:\\6th-sem-23081003\\net centric computing\\lab6\\lab6\\views\\state\\cookieget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FAA962-05BD-4074-8F57-DDF2A1D494A0}|Lab6\\Lab6.csproj|solutionrelative:lab6\\views\\state\\cookieget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TempDataRead.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\TempDataRead.cshtml",
+              "RelativeDocumentMoniker": "Lab6\\Views\\State\\TempDataRead.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\TempDataRead.cshtml",
+              "RelativeToolTip": "Lab6\\Views\\State\\TempDataRead.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:28:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CookieGet.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\CookieGet.cshtml",
+              "RelativeDocumentMoniker": "Lab6\\Views\\State\\CookieGet.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\CookieGet.cshtml",
+              "RelativeToolTip": "Lab6\\Views\\State\\CookieGet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:21:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionGet.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\SessionGet.cshtml",
+              "RelativeDocumentMoniker": "Lab6\\Views\\State\\SessionGet.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\SessionGet.cshtml",
+              "RelativeToolTip": "Lab6\\Views\\State\\SessionGet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:21:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDataDemo.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\ViewDataDemo.cshtml",
+              "RelativeDocumentMoniker": "Lab6\\Views\\State\\ViewDataDemo.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\ViewDataDemo.cshtml",
+              "RelativeToolTip": "Lab6\\Views\\State\\ViewDataDemo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:17:51.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab6\\Views\\State\\Index.cshtml",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Views\\State\\Index.cshtml",
+              "RelativeToolTip": "Lab6\\Views\\State\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:17:32.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\StateController.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\StateController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T02:16:24.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "F:\\6th-Sem-23081003\\NET Centric Computing\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T02:15:38.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
