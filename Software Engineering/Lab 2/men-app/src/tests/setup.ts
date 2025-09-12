@@ -6,7 +6,11 @@ let mongoServer: MongoMemoryServer;
 beforeAll(async () => {
   mongoServer = await MongoMemoryServer.create();
   const mongoUri = mongoServer.getUri();
-  await mongoose.connect(mongoUri);
+
+  // Connect only if not already connected
+  if (mongoose.connection.readyState === 0) {
+    await mongoose.connect(mongoUri);
+  }
 });
 
 afterAll(async () => {
@@ -15,6 +19,7 @@ afterAll(async () => {
 });
 
 afterEach(async () => {
+  // Clear all collections after each test
   const collections = mongoose.connection.collections;
   for (const key in collections) {
     const collection = collections[key];
