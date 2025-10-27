@@ -91,7 +91,7 @@ int main() {
     int idx = 0;
     cout << "SLR Parsing steps:\n";
 
-    while (true) {
+     while (true) {
         int state = st.top();
         string symbol = input[idx];
 

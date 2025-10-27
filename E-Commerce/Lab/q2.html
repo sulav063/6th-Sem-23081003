@@ -1,0 +1,154 @@
+<!--Write a program to create a
+product list and add to cart feature for the products in an e-commerce store
+and display cart items. You can write the program in any language as per your
+comfort. The design is not required. Database is optional; you can also work
+using arrays or any other data structure as per your comfort. Though if you opt
+to use a database, you can.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Product List and Add to Cart</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+}
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+/* Product container */
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+/* Product boxes */
+.product {
+  width: 220px;
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.product h2 {
+  margin-bottom: 10px;
+}
+.product p {
+  margin: 10px 0;
+}
+/* Add button */
+button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #2ecc71;
+  color: #fff;
+  transition: 0.2s;
+}
+button:hover {
+  background-color: #27ae60;
+}
+/* Cart container */
+.cart {
+  margin-top: 40px;
+  background-color: #fff;
+  padding: 20px;
+  width: 700px;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: left;
+}
+.cart h2 {
+  text-align: center;
+  color: #333;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+</style>
+</head>
+<body>
+
+<h1>Product List</h1>
+
+<div class="container" id="productContainer"></div>
+
+<div class="cart">
+    <h2>Cart Items</h2>
+    <ul id="cartList"></ul>
+</div>
+
+<script>
+// Product list
+var products = [
+    { name: "Smartphone", price: 49999 },
+    { name: "Laptop", price: 189999 },
+    { name: "Earbuds", price: 4999 },
+    { name: "Smartwatch", price: 10099 }
+];
+
+// Cart array
+var cart = [];
+
+// Render products
+function renderProducts() {
+    var container = document.getElementById("productContainer");
+    container.innerHTML = "";
+    for (var i = 0; i < products.length; i++) {
+        var prod = products[i];
+        var div = document.createElement("div");
+        div.className = "product";
+        div.innerHTML = "<h2>" + prod.name + "</h2>" +
+                        "<p>Price: Rs " + prod.price + "</p>" +
+                        "<button onclick='addToCart(" + i + ")'>Add to Cart</button>";
+        container.appendChild(div);
+    }
+    }
+
+    // Add product to cart
+    function addToCart(index) {
+    var product = products[index];
+    cart.push(product);
+    renderCart();
+}
+
+// Render cart
+function renderCart() {
+    var cartList = document.getElementById("cartList");
+    cartList.innerHTML = "";
+    if (cart.length === 0) {
+    cartList.innerHTML = "<li>Cart is empty</li>";
+    return;
+    }
+    var total = 0;
+    for (var i = 0; i < cart.length; i++) {
+        var item = cart[i];
+        total += item.price;
+        cartList.innerHTML += "<li>" + item.name + " - RS " + item.price + "</li>";
+    }
+    cartList.innerHTML += "<li><strong>Total: RS " + total + "</strong></li>";
+    }
+
+// Initial render
+renderProducts();
+renderCart();
+</script>
+
+</body>
+</html>

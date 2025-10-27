@@ -1,0 +1,150 @@
+<!--Write a program to create a
+product list and add to wish list feature for the products in an e-commerce
+store and display the wish list items. You can write the program in any
+language as per your comfort. The design is not required. Database is optional;
+you can also work using arrays or any other data structure as per your comfort.
+Though if you opt to use a database, you can.-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Wishlist Feature</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            padding: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .product {
+            width: 220px;
+            background-color: #9b59b6;
+            color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        .product h2 {
+            margin-bottom: 10px;
+        }
+
+        .product p {
+            margin: 10px 0;
+        }
+
+        button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #f1c40f;
+            color: #fff;
+        }
+
+        button:hover {
+            background-color: #f39c12;
+        }
+
+        .wishlist {
+            margin-top: 30px;
+            background-color: #fff;
+            padding: 20px;
+            width: 700px;
+            max-width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+            text-align: left;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            padding: 8px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .total {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Product List</h1>
+
+    <div class="container" id="productContainer"></div>
+
+    <div class="wishlist">
+        <h2>Wishlist Items</h2>
+        <ul id="wishList"></ul>
+        <div class="total" id="wishTotal"></div>
+    </div>
+
+    <script>
+        // Products (name and price)
+        var products = [
+            ["Smartphone", 49999],
+            ["Laptop", 189999],
+            ["Earbuds", 4999],
+            ["Smartwatch", 10999]
+        ];
+
+        // Wishlist array
+        var wishlist = [];
+
+        // Render Products
+        var container = document.getElementById("productContainer");
+        for (var i = 0; i < products.length; i++) {
+            var div = document.createElement("div");
+            div.className = "product";
+            div.innerHTML = "<h2>" + products[i][0] + "</h2>" +
+                "<p>Price: Rs " + products[i][1] + "</p>" +
+                "<button onclick='addToWishlist(" + i + ")'>Add to Wishlist</button>";
+            container.appendChild(div);
+        }
+
+        // Add product to wishlist
+        function addToWishlist(index) {
+            wishlist.push(products[index]);
+            renderWishlist();
+        }
+
+        // Render Wishlist
+        function renderWishlist() {
+            var wishList = document.getElementById("wishList");
+            var wishTotal = document.getElementById("wishTotal");
+            wishList.innerHTML = "";
+            for (var i = 0; i < wishlist.length; i++) {
+                wishList.innerHTML += "<li>" + wishlist[i][0] + " - Rs " + wishlist[i][1] + "</li>";
+            }
+            wishTotal.innerHTML = "Total items in wishlist: " + wishlist.length;
+        }
+
+        // Initial render
+        renderWishlist();
+    </script>
+
+</body>
+
+</html>

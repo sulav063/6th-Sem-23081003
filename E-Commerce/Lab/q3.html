@@ -1,0 +1,214 @@
+<!--Write a program to implement
+add to cart and checkout feature of an e-commerce shopping store and display
+the ordered list of items. You can write the program in any language as per
+your comfort. The design is not required. Database is optional; you can also
+work using arrays or any other data structure as per your comfort. Though if
+you opt to use a database, you can.-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Add to Cart & Checkout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            padding: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .product {
+            width: 220px;
+            background-color: #3498db;
+            color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        .product h2 {
+            margin-bottom: 10px;
+        }
+
+        .product p {
+            margin: 10px 0;
+        }
+
+        button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #2ecc71;
+            color: #fff;
+        }
+
+        button:hover {
+            background-color: #27ae60;
+        }
+
+        .cart,
+        .orders {
+            margin-top: 30px;
+            background-color: #fff;
+            padding: 20px;
+            width: 700px;
+            max-width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+            text-align: left;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            padding: 8px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .total {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .checkout-btn {
+            margin-top: 10px;
+            padding: 8px 15px;
+            background-color: #e67e22;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .checkout-btn:hover {
+            background-color: #d35400;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Shopping Store</h1>
+
+    <div class="container" id="productContainer"></div>
+
+    <div class="cart">
+        <h2>Cart Items</h2>
+        <ul id="cartList"></ul>
+        <div class="total" id="cartTotal"></div>
+        <button class="checkout-btn" onclick="checkout()">Checkout</button>
+    </div>
+
+    <div class="orders">
+        <h2>Ordered Items</h2>
+        <ul id="orderList"></ul>
+        <div class="total" id="orderTotal"></div>
+    </div>
+
+    <script>
+        // Products (name and price)
+        var products = [
+            ["Smartphone", 49999],
+            ["Laptop", 189999],
+            ["Earbuds", 4999],
+            ["Smartwatch", 10999]
+        ];
+
+        // Cart and Orders arrays
+        var cart = [];
+        var orders = [];
+
+        // Render Products
+        var container = document.getElementById("productContainer");
+        for (var i = 0; i < products.length; i++) {
+            var div = document.createElement("div");
+            div.className = "product";
+            div.innerHTML = "<h2>" + products[i][0] + "</h2>" +
+                "<p>Price: Rs " + products[i][1] + "</p>" +
+                "<button onclick='addToCart(" + i + ")'>Add to Cart</button>";
+            container.appendChild(div);
+        }
+
+        // Add to Cart
+        function addToCart(index) {
+            cart.push(products[index]);
+            renderCart();
+        }
+
+        // Render Cart
+        function renderCart() {
+            var cartList = document.getElementById("cartList");
+            var cartTotal = document.getElementById("cartTotal");
+            cartList.innerHTML = "";
+            var total = 0;
+            for (var i = 0; i < cart.length; i++) {
+                cartList.innerHTML += "<li>" + cart[i][0] + " - Rs " + cart[i][1] + "</li>";
+                total += cart[i][1];
+            }
+            if (cart.length == 0) {
+                cartList.innerHTML = "<li>Cart is empty</li>";
+                cartTotal.innerHTML = "";
+            } else {
+                cartTotal.innerHTML = "Total: Rs " + total;
+            }
+        }
+
+        // Checkout
+        function checkout() {
+            if (cart.length == 0) {
+                alert("Your cart is empty!");
+                return;
+            }
+            for (var i = 0; i < cart.length; i++) {
+                orders.push(cart[i]);
+            }
+            cart = [];
+            renderCart();
+            renderOrders();
+            alert("Checkout successful!");
+        }
+
+        // Render Orders
+        function renderOrders() {
+            var orderList = document.getElementById("orderList");
+            var orderTotal = document.getElementById("orderTotal");
+            orderList.innerHTML = "";
+            var total = 0;
+            for (var i = 0; i < orders.length; i++) {
+                orderList.innerHTML += "<li>" + orders[i][0] + " - Rs " + orders[i][1] + "</li>";
+                total += orders[i][1];
+            }
+            if (orders.length == 0) {
+                orderList.innerHTML = "<li>No orders yet</li>";
+                orderTotal.innerHTML = "";
+            } else {
+                orderTotal.innerHTML = "Total: Rs " + total;
+            }
+        }
+
+        // Initial render
+        renderCart();
+        renderOrders();
+    </script>
+
+</body>
+
+</html>

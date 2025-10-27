@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Product Categories and Items</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+}
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+/* Container for horizontal layout */
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+/* Category boxes */
+.category {
+  width: 220px;
+  padding: 15px;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.category h2 {
+  margin-bottom: 10px;
+}
+/* Lists inside boxes */
+ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+li {
+  background: rgba(255,255,255,0.3);
+  margin: 5px 0;
+  padding: 6px;
+  border-radius: 5px;
+}
+/* Input and button */
+input {
+  width: 60%;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+button {
+  padding: 5px 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: rgba(255,255,255,0.3);
+  color: #fff;
+  transition: 0.2s;
+}
+button:hover {
+  background: rgba(255,255,255,0.6);
+}
+</style>
+</head>
+<body>
+
+<h1>Product Categories</h1>
+<div class="container" id="categories"></div>
+
+<script>
+// Categories array
+var categories = [
+  { name: "Phones", items: [], color: "#e74c3c" },
+  { name: "Laptops", items: [], color: "#3498db" },
+  { name: "Earbuds", items: [], color: "#2ecc71" }
+];
+
+// Render categories
+function renderCategories() {
+  var container = document.getElementById("categories");
+  container.innerHTML = "";
+
+  for (var i = 0; i < categories.length; i++) {
+    var cat = categories[i];
+
+    var div = document.createElement("div");
+    div.className = "category";
+    div.style.backgroundColor = cat.color;
+
+    var html = "<h2>" + cat.name + "</h2>";
+    html += "<ul id='list-" + i + "'>";
+    if (cat.items.length === 0) {
+      html += "<li>No items yet</li>";
+    } else {
+      for (var j = 0; j < cat.items.length; j++) {
+        html += "<li>" + cat.items[j] + "</li>";
+      }
+    }
+    html += "</ul>";
+    html += "<input type='text' id='input-" + i + "' placeholder='Add item...'>";
+    html += "<button onclick='addItem(" + i + ")'>Add</button>";
+
+    div.innerHTML = html;
+    container.appendChild(div);
+  }
+}
+
+// Add item to category
+function addItem(index) {
+  var input = document.getElementById("input-" + index);
+  var value = input.value.trim();
+  if (value === "") {
+    alert("Please enter an item name!");
+    return;
+  }
+  categories[index].items.push(value);
+  input.value = "";
+  renderCategories();
+}
+
+// Initial render
+renderCategories();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop - Buy Now with Khalti</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background-color: #f4f7fa;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px;
+            background: #28a745;
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .product-grid {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        .product-card {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            width: 300px;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .product-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        .product-card h3 {
+            margin: 10px 0;
+            font-size: 1.2em;
+        }
+
+        .product-card p {
+            color: #28a745;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            background: #28a745;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background 0.3s;
+            width: 100%;
+        }
+
+        .btn:hover {
+            background: #218838;
+        }
+
+        .cart {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .cart-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .cart-item:last-child {
+            border-bottom: none;
+        }
+
+        #cart-total {
+            font-weight: bold;
+            margin-top: 10px;
+            text-align: right;
+        }
+
+        #message {
+            margin-top: 10px;
+            color: red;
+            text-align: center;
+        }
+
+        #pay-now-btn {
+            display: none;
+            margin-top: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Welcome to Our Shop</h1>
+            <p>Buy Now with Secure Khalti Payment!</p>
+        </div>
+        <div class="product-grid">
+            <div class="product-card">
+                <img src="https://via.placeholder.com/300x200?text=Cool+T-Shirt" alt="Cool T-Shirt">
+                <h3>Cool T-Shirt</h3>
+                <p>Rs. 10</p>
+                <button class="btn" onclick="addToCart()">Add to Cart</button>
+            </div>
+        </div>
+        <div class="cart">
+            <h2>Your Cart</h2>
+            <div id="cart-items"></div>
+            <div id="cart-total">Total: Rs. 0</div>
+            <button id="pay-now-btn" class="btn" onclick="payWithKhalti()">Pay Now with Khalti</button>
+            <div id="message"></div>
+        </div>
+    </div>
+
+    <!-- Khalti Checkout JS -->
+    <script src="https://khalti.s3.ap-south-1.amazonaws.com/KPG/dist/2020.12.17.0.0.0/khalti-checkout.iffe.js"></script>
+    <script>
+        let cart = [];
+        const product = { name: "Cool T-Shirt", price: 10, quantity: 1 };
+
+        function addToCart() {
+            cart.push(product);
+            updateCart();
+            document.getElementById('pay-now-btn').style.display = 'block';
+            document.getElementById('message').textContent = '';
+        }
+
+        function updateCart() {
+            const cartItems = document.getElementById('cart-items');
+            cartItems.innerHTML = '';
+            cart.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'cart-item';
+                itemDiv.innerHTML = `${item.name} - Rs. ${item.price} x ${item.quantity}`;
+                cartItems.appendChild(itemDiv);
+            });
+            document.getElementById('cart-total').textContent = `Total: Rs. ${cart.reduce((sum, item) => sum + item.price * item.quantity, 0)}`;
+        }
+
+        function payWithKhalti() {
+            const message = document.getElementById('message');
+            message.textContent = 'Initializing Khalti payment...';
+
+            // Khalti Checkout configuration
+            const config = {
+                // Replace with your test public key from test-admin.khalti.com
+                publicKey: 'bcef79032e0946e79bcc85c099f4ebee', // Default test key
+                productIdentity: '1234567890',
+                productName: 'Cool T-Shirt',
+                productUrl: 'http://localhost:5000/',
+                eventHandler: {
+                    onSuccess(payload) {
+                        console.log(payload);
+                        message.textContent = 'Payment Successful! Thank you!';
+                        cart = []; // Clear cart on success
+                        updateCart();
+                        document.getElementById('pay-now-btn').style.display = 'none';
+                    },
+                    onError(error) {
+                        console.log(error);
+                        message.textContent = 'Payment Failed. Please try again. Details: ' + error;
+                    },
+                    onClose() {
+                        console.log('Widget closed');
+                        message.textContent = 'Payment canceled.';
+                    }
+                },
+                paymentPreference: ["KHALTI", "EBANKING", "MOBILE_BANKING", "CONNECT_IPS", "SCT"],
+            };
+
+            const checkout = new KhaltiCheckout(config);
+            const amount = cart.reduce((sum, item) => sum + item.price * item.quantity, 0) * 100; // Convert to paisa
+            checkout.show({ amount: amount });
+        }
+    </script>
+</body>
+
+</html>
