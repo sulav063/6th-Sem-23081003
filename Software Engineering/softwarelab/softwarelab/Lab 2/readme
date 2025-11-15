@@ -1,0 +1,21 @@
+initialize the Project
+mkdir lab
+cd lab
+npm init -y
+npm install zod
+
+For sum and email
+Update package.json
+"scripts": {
+"dev": "node index.js",
+},
+"type": "module",
+
+For divide and factorial
+For Testing
+npm install jest
+Update package.json
+"scripts": {
+"test": "jest",
+},
+"type": "commonjs",
