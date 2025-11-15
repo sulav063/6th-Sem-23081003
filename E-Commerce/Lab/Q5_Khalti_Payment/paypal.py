@@ -6,8 +6,9 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
 # Stripe test keys (replace with your own test keys)
-stripe.api_key = "sk_test_51SSbLc41vcinSutnOg19tiWNvOKdwGcW71UJz0DZwG7ibd4hy6r3JLsBC5Tm5W4Ka0JK7v9jYwsk84gxMORFBdMG00aYCnwEaT"
+stripe.api_key = "sk_test_"
 DOMAIN = "http://127.0.0.1:5000"
+
 
 @app.route('/')
 def home():
@@ -109,7 +110,7 @@ def home():
         </div>
 
         <script>
-            const stripe = Stripe("pk_test_51SSbLc41vcinSutncDskvE9huVcmSgqvkaN9DZTiI89U8VQtN3l5htao3304afDcT3MfUrkk5QwELC80vx3p9PPv002CFzB8CR");
+            const stripe = Stripe("");
             let cart = [];
 
             function addToCart() {
@@ -146,6 +147,7 @@ def home():
     </body>
     </html>
     ''')
+
 
 @app.route("/create-checkout-session", methods=["POST"])
 def create_checkout_session():
@@ -184,3 +186,4 @@ def cancel():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
