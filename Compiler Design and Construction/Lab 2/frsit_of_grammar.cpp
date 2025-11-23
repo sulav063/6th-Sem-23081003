@@ -103,4 +103,3 @@ void addToResult(string& result, char value) {
         result += value;
     }
 }
-
